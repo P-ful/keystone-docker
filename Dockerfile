@@ -1,5 +1,5 @@
 FROM python:2.7.12
-MAINTAINER = Di Xu <stephenhsu90@gmail.com>
+MAINTAINER = Daeyeon Joo <daeyeonjoo@p-ful.com>
 
 EXPOSE 5000 35357
 ENV KEYSTONE_VERSION 9.1.0
