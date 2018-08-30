@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 TLS_ENABLED=${TLS_ENABLED:-false}
 if $TLS_ENABLED; then
